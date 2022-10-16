@@ -9,7 +9,6 @@
         │   │   ├── controller.py: API endpoint
         │   │   ├── schemas.py: Type model, enum
         │   │   ├── services.py: API에서 사용하는 method
-        │   │   └── validation.py: Validate request parameter
         │   └── router.py
         ├── main.py
         ├── settings.py: 환경변수
